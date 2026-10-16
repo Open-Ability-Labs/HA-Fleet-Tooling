@@ -56,7 +56,7 @@ Not implemented yet:
 pip install -e ".[dev]"
 
 # From GitHub
-pip install git+https://github.com/zixiaoshawnshi/HA-Fleet-Tooling.git@main
+pip install git+https://github.com/Open-Ability-Labs/HA-Fleet-Tooling.git@main
 ```
 
 ## Commands
